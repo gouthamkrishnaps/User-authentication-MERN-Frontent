@@ -1,0 +1,39 @@
+.login-component{
+    background-size: cover;
+    background-image: url(../assets/pexels-neo-2653362.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.login-box{
+    backdrop-filter: blur(10px);
+}
+.signup-component{
+    background-size: cover;
+    background-image: url(../assets/pexels-danny-meneses-943096.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.signup-box{
+    backdrop-filter: blur(10px);
+}
+.home-page{
+    height: 100vh;
+    background-image: url(../assets/pexels-veeterzy-303383.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.navbar{
+    background-color: rgba(23, 23, 23, 0.411);
+}
+.blur{
+    backdrop-filter: blur(4px);
+    background: rgba(0, 139, 139, 0);
+}
+.card:hover{
+    transform: scale(1.2);
+    transition: 300ms;
+}
+.card{
+    transition: 300ms;
+}
